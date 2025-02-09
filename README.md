@@ -2,6 +2,9 @@
 # Blinkit Sales Analytics Dashboard
 India’s Last-Minute Retail Insights
 
+# Create this beautiful dashboard![Alt text](path/to/your/image.jpg)
+
+
 # 📌 Project Overview
 This Power BI dashboard analyzes sales performance, outlet operations, and product distribution for Blinkit, a last-minute retail app in India.
 
