@@ -2,7 +2,7 @@
 # Blinkit Sales Analytics Dashboard
 India’s Last-Minute Retail Insights
 
-# Create this beautiful dashboard![Alt text](Screenshot 2025-02-09 165716.png)
+# Create this beautiful dashboard![Alt text](Screenshot 2025-02-09 165716.jpg)
 
 
 # 📌 Project Overview
